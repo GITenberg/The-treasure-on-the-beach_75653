@@ -1,0 +1,90 @@
+_repo: The-treasure-on-the-beach_75653
+_version: 0.0.1
+alternative_title: The treasvre on the beach
+contributor:
+  illustrators:
+  - agent_name: Bernebruch, Leon de
+    alias: De Bernebruch, Leon
+    birthdate: 1861
+    gutenberg_agent_id: '58088'
+    url: http://www.gutenberg.org/2009/agents/58088
+  - agent_name: Collins, Sewell
+    alias: Collins, Sewell T.
+    birthdate: 1876
+    deathdate: 1934
+    gutenberg_agent_id: '25564'
+    url: http://www.gutenberg.org/2009/agents/25564
+    wikipedia: https://en.wikipedia.org/wiki/Sewell_Collins
+  - agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+    wikipedia: https://en.wikipedia.org/wiki/Harrison_Fisher
+  - agent_name: Grefé, Will
+    alias: Grefe, Will
+    birthdate: 1875
+    deathdate: 1957
+    gutenberg_agent_id: '9414'
+    url: http://www.gutenberg.org/2009/agents/9414
+  - agent_name: Wallys, Avery Guilford
+    gutenberg_agent_id: '58070'
+    url: http://www.gutenberg.org/2009/agents/58070
+  - agent_name: Williams, C. D. (Charles D.)
+    alias: Williams, Charles D.
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '24824'
+    url: http://www.gutenberg.org/2009/agents/24824
+creator:
+  authors:
+  - agent_name: Street, Julian
+    alias: Street, Julian Leonard
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '7933'
+    url: http://www.gutenberg.org/2009/agents/7933
+    wikipedia: https://en.wikipedia.org/wiki/Julian_Leonard_Street
+  - agent_name: Finney, Frank
+    gutenberg_agent_id: '58068'
+    url: http://www.gutenberg.org/2009/agents/58068
+description: 'Reading ease score: 83.0 (6th grade). Easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Crime/Mystery'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75653'
+language: en
+pgterms:marc905: 20250315203928street
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aPortsmouth :$bThe Seaboard Air Line Railway, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Love stories'
+- !lcsh 'Florida -- Fiction'
+- !lcsh 'Advertising -- Railroads'
+- !lcc 'PS'
+- GITenberg
+summary: '"The Treasure on the Beach" by Julian Street and Frank Finney is a light-hearted
+  adventure novel written in the early 20th century. The story revolves around the
+  hunt for hidden treasure, sparked by the late Uncle Abner''s eccentric letter and
+  treasure map. Set against the backdrop of Florida''s sandy shores, this narrative
+  explores themes of family, adventure, and unexpected romance.  The plot follows
+  Allen Spencer, who, upon receiving a letter from his great uncle Abner, decides
+  to travel to Lone Palm Key to seek buried treasure. He soon discovers he has competition
+  in the form of a distant relative, Graham Stewart. Their journeys lead them to work
+  together in a series of comedic and romantic interactions as they dig for treasure,
+  only to find it''s more of a ruse than a reality. Their search takes unexpected
+  turns, and through shared challenges, romantic sparks fly between the duo. The entertaining
+  mix of treasure hunting and budding romance presents readers with a charming tale
+  about unexpected connections and the true meaning of treasure. (This is an automatically
+  generated summary.)'
+title: The treasure on the beach
+url: http://www.gutenberg.org/ebooks/75653
