@@ -36,6 +36,9 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '24824'
     url: http://www.gutenberg.org/2009/agents/24824
+covers:
+- cover_type: archival
+  image_path: 75653-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Street, Julian
@@ -49,6 +52,8 @@ creator:
     gutenberg_agent_id: '58068'
     url: http://www.gutenberg.org/2009/agents/58068
 description: 'Reading ease score: 83.0 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75653#The-treasure-on-the-beach
 gutenberg_bookshelf:
 - 'Browsing: Crime/Mystery'
 - 'Browsing: Fiction'
